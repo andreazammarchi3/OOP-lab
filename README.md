@@ -1,2 +1,2 @@
 # OOP_Lab
-Esercitazioni di laboratorio OOP
+OOP Lab - Exercises and solutions
